@@ -1,5 +1,12 @@
-### Hi there 👋
+### waddup! 👋
 
+motivated computer science engineering student with a background of software development and problem solving. working toward personal development and eager to contribute my skills in a dynamic environment that fosters continuous learning and innovation. open to exciting opportunities to broaden my knowledge and make a meaningful impact. let's connect and explore the possibilities!
+
+
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@gingerbread/30-nites-of-code)  
+  ![@gingerbread #30NitesOfCode](https://www.codedex.io/api/petStatus?user=gingerbread)
 <!--
 **souvikdebbarma/souvikdebbarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
