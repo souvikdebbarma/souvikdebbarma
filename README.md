@@ -1,7 +1,7 @@
 ### waddup! 👋
 
-Hey there! 👋 
-I'm souvik!, a passionate Computer Science Engineering student driven by a relentless pursuit of knowledge and innovation. With a solid foundation in software development and a knack for problem-solving, I'm on a mission to continually enhance my skills and make a tangible difference in the world of technology.
+## Hey there! 👋 
+I'm ##souvik!, a passionate Computer Science Engineering student driven by a relentless pursuit of knowledge and innovation. With a solid foundation in software development and a knack for problem-solving, I'm on a mission to continually enhance my skills and make a tangible difference in the world of technology.
 
 
 ## #30NitesOfCode:
