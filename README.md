@@ -18,3 +18,6 @@ I'm souvik..:) , a passionate Computer Science Engineering student driven by a r
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikdebbarma&" alt="souvikdebbarma" /></p>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
